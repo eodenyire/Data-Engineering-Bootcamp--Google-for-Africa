@@ -32,7 +32,7 @@ To run the code and perform the analysis, you need the following:
 
 1. Clone this repository to your local machine:
 
-   <pre>
+ 
 ```bash
 git clone https://github.com/YourUsername/Car-Data-Analysis.git
 ```
