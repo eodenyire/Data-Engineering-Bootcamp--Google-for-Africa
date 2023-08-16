@@ -31,11 +31,9 @@ To run the code and perform the analysis, you need the following:
 ## Setup Instructions
 
 1. Clone this repository to your local machine:
-   
 
    <pre>
 ```bash
-#!/bin/bash
 git clone https://github.com/YourUsername/Car-Data-Analysis.git
 ```
 </pre>
