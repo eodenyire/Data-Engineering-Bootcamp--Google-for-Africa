@@ -33,10 +33,10 @@ To run the code and perform the analysis, you need the following:
 1. Clone this repository to your local machine:
 
  
-
+```bash
 git clone https://github.com/YourUsername/Car-Data-Analysis.git
 ```
-</pre>
+
 
 3. Navigate to the project directory:
 cd Car-Data-Analysis
