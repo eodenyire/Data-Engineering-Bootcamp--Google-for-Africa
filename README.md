@@ -71,5 +71,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or feedback, please contact me at [eodenyire@gmail.com].
 
+Find the notebook: https://colab.research.google.com/drive/16_rilLqvO2IDDcMxMbi0FGS6Cjf5wkGY?authuser=4#scrollTo=gHR_ZnvoIQrv
+
 Happy coding!
 
