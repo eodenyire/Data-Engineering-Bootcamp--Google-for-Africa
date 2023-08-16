@@ -1,6 +1,8 @@
 # Data-Engineering-Bootcamp--Google-for-Africa
 
 # Car Data Analysis Project
+# Selection Process - Data Engineering Bootcamp
+# Code challenge
 
 ## Overview
 
@@ -31,21 +33,18 @@ To run the code and perform the analysis, you need the following:
 ## Setup Instructions
 
 1. Clone this repository to your local machine:
-
- 
 ```bash
-git clone https://github.com/YourUsername/Car-Data-Analysis.git
+git clone https://github.com/eodenyire/Data-Engineering-Bootcamp--Google-for-Africa.git
 ```
-
-
 3. Navigate to the project directory:
+```bash
 cd Car-Data-Analysis
-
+```
 4. Install the required Python packages:
+```bash
 pip install -r requirements.txt
-
-5. Open and run the Jupyter Notebook `Car_Data_Analysis.ipynb` to perform the analysis.
-
+```
+6. Open and run the Jupyter Notebook `Car_Data_Analysis.ipynb` to perform the analysis.
 ## Usage
 
 1. Open the Jupyter Notebook `Car_Data_Analysis.ipynb`.
@@ -70,7 +69,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, please contact me at [your.email@example.com].
+If you have any questions or feedback, please contact me at [eodenyire@gmail.com].
 
 Happy coding!
 
